@@ -1,0 +1,64 @@
+body{
+    height: 50%;
+    background-color: rgb(34, 34, 34);
+}
+header{
+    text-align: center;
+    height: 500px;
+    width: 100%;
+    background-color: rgb(34, 34, 34);
+} 
+
+.titulo{
+    color: aliceblue;
+}
+
+.parrafo{
+    color: aliceblue;
+} 
+
+span{
+    color: blue;
+}
+
+button {
+    background-color: white;
+    color: white;
+    border: 2px solid;
+    cursor: pointer;
+    padding: 1rem;
+}
+
+button:hover {
+    border-color: rgb(80, 228, 54);
+}
+/*
+#subtituloName{
+    color: gray;
+}
+*/
+#imagen{
+    border-radius: 5rem;
+}
+
+.tamaño{
+    height: 50px;
+    width: 50px;
+}
+
+.posision{
+    padding: 3rem;
+    position: relative;
+    left: 27rem;
+    top: -23rem;
+    width: 40rem;
+    height: 40rem;
+    background-color: white;
+}
+/*
+.btn{
+    position: relative;
+    left: -8rem;
+}  */
+
+
